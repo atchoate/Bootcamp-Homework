@@ -1,0 +1,53 @@
+.panel {
+    background-color: white;
+    padding: 25px;
+}
+
+.dropdown {
+    position: relative;
+}
+
+.img-thumbnail {
+    max-width: 50%;
+    height: auto;
+    border: 0px;
+}
+
+header h3 {
+    background-color: rgb(57, 57, 110);
+    padding: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+}
+
+body h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(57, 57, 110);    
+
+}
+
+body h3 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: rgb(57, 57, 110);   
+}
+
+p {
+    font-size: small;
+    color: gray;
+}
+
+.footer {
+    color: white;
+    font-size: x-small;
+    text-align: center;
+    background-color: rgb(57, 57, 110);
+}
+
+.largeview {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
