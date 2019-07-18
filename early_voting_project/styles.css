@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+    padding-top: 65px;
+}
+
+.headline {
+    color: white;
+}
+
+.body-txt {
+    color: white;
+    font-family: 'Domine';
+    font-size: 12pt;
+}
+
+.emph-txt {
+    color: rgb(184, 86, 11);
+}
+
+.center-headline {
+    text-align: center;
+    color: white;
+    padding-bottom: 15px;
+    font-weight: bold;
+    font-family: 'Anton';
+}
+
+.link {
+    font-weight: bold;
+    color: rgb(232, 210, 43);
+}
+
+.float {
+    float: right;
+}
+
+img {
+    width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+#siderail {
+    background-color: rgb(232, 210, 43);
+}
+
+.figure-caption {
+    color: white;
+}
+
+.rail-hed {
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+.rail-txt {
+    color: black;
+    font-size: small;
+}
+
+.rail-tiny {
+    color: black;
+    font-size: xx-small;
+    text-align: center;
+}
